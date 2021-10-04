@@ -7,9 +7,10 @@ The first analysis was to see how theater outcomes are compared to the launch da
 
 ![this is an image](https://github.com/Jake-King27/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
-The second analysis was to see how plays were either successful or failed based on the Goal. Based on the line chart it appears that 
+The second analysis was to see how plays were either successful or failed based on the Goal. Based on the line chart it appears that the higher the goal, the less succesful. 
 ![this is an image](https://github.com/Jake-King27/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
+A challenge I encountered with this project were making sure my formulas were correct as well as figuring out the README file. 
 
 # Kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends. 
