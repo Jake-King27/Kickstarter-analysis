@@ -1,4 +1,4 @@
-# Kickstarter Challenge
+# Kickstarting with Excel
 Performing Analyis to determine how plays faired based on Launch Date and Goal 
 
 # Kickstarter-analysis
